@@ -10,7 +10,7 @@ The schematics for the keyboard will be loose, as I intend for them to be mostly
 
 ## Required Items:
 - Arduino Pro Micro or compatible ATMega32u4 board.
-- Landline keypad or similar 4x4 matrix keypad to use the drumpad code, or an electronic toy keyboard to use the keyboard code.
+- Landline keypad or similar 4x4 matrix keypad(s) to use the drumpad code, or an electronic toy keyboard to use the keyboard code.
 - Soldering iron and wire.
 - (Optional) I2C 16x2 LCD module to display currently playing chord/note/keypad.
 
