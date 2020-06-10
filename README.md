@@ -7,7 +7,9 @@ RAVEN is a series of open-source, DIY MIDI solutions for those on a budget. This
 There will be 3 different versions for the drumpad, with RAVEN Micro intended to be the first released project.
 
 RAVEN (64-key)
+
 RAVEN Mini (32-key)
+
 RAVEN Micro (16-key)
 
 RAVEN Workstation - A portable DAW, meant to be thrown in your backpack (or cargo pants pocket) with your RAVEN variant.
