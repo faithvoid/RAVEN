@@ -1,5 +1,5 @@
 # RAVEN
-Open-source MIDI device schematics + code. Based loosely off of my "Emergency Queer Pep Talk" device code.
+Open-source MIDI device schematics + code. Drumpad code based loosely off of my "Emergency Queer Pep Talk" device code.
 
 ## Concept:
 RAVEN is an open-source, DIY MIDI solution for those on a budget. This isn't the most elegant solution in the world, but it can be made for next to nothing using parts that would normally end up in a landfill.
