@@ -4,7 +4,7 @@ Open-source MIDI device schematics + code. Based loosely off of my "Emergency Qu
 ## Concept:
 RAVEN is an open-source, DIY MIDI solution for those on a budget. This isn't the most elegant solution in the world, but it can be made for next to nothing using parts that would normally end up in a landfill.
 
-There will be 3 different versions for the drumpad: RAVEN (64-key), RAVEN Mini (32-key) & RAVEN Micro (16-key).
+There will be 3 different versions for the drumpad: RAVEN (64-key), RAVEN Mini (32-key) & RAVEN Micro (16-key), with RAVEN Micro intended to be the first released project.
 
 The schematics for the keyboard will be loose, as I intend for them to be mostly universal, minus some code modification you'll most likely have to do for your specific keyboard matrix.
 
